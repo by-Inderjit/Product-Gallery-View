@@ -49,11 +49,11 @@ export const ImgArr = [
     title: `Find Your Rhythm`,
     paragraph: `A carefully crafted visual journey where every element works together in perfect rhythm.`
   },
-  {
-    image: `/img/Img11.webp`,
-    title: `Into The Unknown`,
-    paragraph: `Experimenting with new directions and unexpected ideas to discover something different.`
-  },
+  // {
+  //   image: `/img/Img11.webp`,
+  //   title: `Into The Unknown`,
+  //   paragraph: `Experimenting with new directions and unexpected ideas to discover something different.`
+  // },
   {
     image: `/img/Img12.webp`,
     title: `The Final Touch`,
