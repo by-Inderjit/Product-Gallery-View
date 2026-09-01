@@ -155,7 +155,7 @@ const ProductGalleryView = () => {
                   <div
                     ref={(el) => (itemRefs.current[index] = el)}
                     onClick={() => handleOpen(index, item)}
-                    className="img-wrapper w-[180px] group-hover:w-[300px] relative transition-all duration-500 ease-out cursor-pointer shrink-0 aspect-[4/5] bg-pink-300 overflow-hidden"
+                    className="img-wrapper w-[180px] group-hover:w-[300px] relative transition-all duration-500 ease-out cursor-pointer shrink-0 aspect-[4/5]  overflow-hidden"
                   >
                     <img
                       src={item.image}
